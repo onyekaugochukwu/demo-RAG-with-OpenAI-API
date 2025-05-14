@@ -1,0 +1,11 @@
+streamlit
+openai
+python-docx
+PyPDF2
+langchain
+faiss-cpu
+tiktoken
+langchain-community
+pymupdf
+unstructured
+python-magic

@@ -15,7 +15,7 @@ st.set_page_config(page_title="Document Chat App", page_icon="📄")
 if "messages" not in st.session_state:
     st.session_state.messages = []
 if "api_key" not in st.session_state:
-    st.session_state.api_key = "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"
+    st.session_state.api_key = "xxxxxxx"
 if "vector_store" not in st.session_state:
     st.session_state.vector_store = None
 
